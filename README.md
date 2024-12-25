@@ -1,5 +1,6 @@
 # MERRY CHRISTMAS
-A simple C++ script that uses the winbgim.h graphics library to draw the phrase "BUON NATALE" (Merry Christmas in Italian) in a graphical window and the project was developed using Dev-C++
+A simple C++ script that uses the winbgim.h graphics library to draw the phrase "BUON NATALE" (Merry Christmas in Italian) in a graphical window.
+The project was developed using Dev-C++
 
 ## Requirements
 - [Dev C++](https://www.embarcadero.com/free-tools/dev-cpp)
