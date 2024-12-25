@@ -12,7 +12,11 @@ A simple C++ script that uses the winbgim.h graphics library to draw the phrase 
 2. Configure Dev-C++:
 
 - Go to Tools > Compiler Options and add 
-``` -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 ```
+```
+
+-lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+
+```
 
 3. Compiling the project:
 
