@@ -12,7 +12,7 @@ The project was developed using Dev-C++
 
 2. Configure Dev-C++:
 
-    - Go to Tools > Compiler Options and add 
+    - Go to Tools > Compiler Options and add:
 ```
 -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 ```
