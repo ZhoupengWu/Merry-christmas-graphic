@@ -11,20 +11,18 @@ A simple C++ script that uses the winbgim.h graphics library to draw the phrase 
 
 2. Configure Dev-C++:
 
-- Go to Tools > Compiler Options and add 
+    - Go to Tools > Compiler Options and add 
 ```
-
 -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
-
 ```
 
 3. Compiling the project:
 
-- Clone or download the main.cpp file
+    - Clone or download the main.cpp file
 
-- Open main.cpp in Dev C++
+    - Open main.cpp in Dev C++
 
-- Compile and run the project
+    - Compile and run the project
 
 ## License
 This project is **open source** and you can copy, modify or use it for your own purposes. Just give credits
