@@ -1,13 +1,13 @@
-# MERRY CHRISTMAS
+# 🎄 MERRY CHRISTMAS 🎅🏻
 A simple C++ script that uses the winbgim.h graphics library to draw the phrase "BUON NATALE" (Merry Christmas in Italian) in a graphical window.
 The project was developed using Dev-C++
 
-## Requirements
+## ⚙️ Requirements
 - [Dev C++](https://www.embarcadero.com/free-tools/dev-cpp)
 
 - Windows operating system
 
-## Installation and Setup
+## 🛠️ Installation and Setup
 1. Download and install Dev C++
 
 2. Configure Dev-C++:
@@ -25,5 +25,5 @@ The project was developed using Dev-C++
 
     - Compile and run the project
 
-## License
-This project is **open source** and you can copy, modify or use it for your own purposes. Just give credits
+## 📜 License
+**This project is licensed under the terms of the [Wu Zhoupeng License 1.0](./LICENSE.md)**
